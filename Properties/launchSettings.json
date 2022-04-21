@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "VK Group Auto Post": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "environmentVariables": {},
+      "distributionName": ""
+    }
+  }
+}
